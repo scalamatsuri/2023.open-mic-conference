@@ -12,4 +12,4 @@ jobs:
         with:
           project: https://github.com/orgs/scalamatsuri/projects/12
           column: Proposal
-          repo-token: ${{ secrets.SCALAMATSURI_2023_OPEN_MIC_CONFERENCE_ACTIONS }}
+          repo-token: ${{ secrets.ACTIONS_SECRET }}
