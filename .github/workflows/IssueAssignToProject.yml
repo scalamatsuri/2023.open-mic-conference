@@ -1,14 +1,15 @@
 name: Issue assign to Project
+
 on:
   issues:
-    types:
-      - opened
+    types: [opened]
+
 jobs:
-  move-assigned-card:
+  automate-project-columns:
     runs-on: ubuntu-latest
     steps:
       - uses: alex-page/github-project-automation-plus@v0.8.3
         with:
-          project: 'https://github.com/orgs/scalamatsuri/projects/12'
-          column_name: 'Proposal'
+          project: https://github.com/orgs/scalamatsuri/projects/12
+          column: Proposal
           repo-token: ${{ secrets.SCALAMATSURI_2023_OPEN_MIC_CONFERENCE_ACTIONS }}
