@@ -3,7 +3,6 @@ name: Issue assign to Project
 on:
   issues:
     types: [opened]
-
 jobs:
   automate-project-columns:
     runs-on: ubuntu-latest
@@ -12,4 +11,4 @@ jobs:
         with:
           project: https://github.com/orgs/scalamatsuri/projects/12
           column: Proposal
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
