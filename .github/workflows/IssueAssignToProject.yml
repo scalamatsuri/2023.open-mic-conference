@@ -3,15 +3,12 @@ on:
   issues:
     types:
       - opened
-env:
-  GITHUB_TOKEN: ${{ secrets.SCALAMATSURI_2023_OPEN_MIC_CONFERENCE_ACTIONS }}
 jobs:
-  assign_one_project:
+  move-assigned-card:
     runs-on: ubuntu-latest
-    name: Assign to One Project
     steps:
-      - name: Project に割り当てる
-        uses: srggrs/assign-one-project-github-action@1.2.1
+      - uses: alex-page/github-project-automation-plus@v0.8.3
         with:
           project: 'https://github.com/orgs/scalamatsuri/projects/12'
           column_name: 'Proposal'
+          repo-token: ${{ secrets.SCALAMATSURI_2023_OPEN_MIC_CONFERENCE_ACTIONS }}
