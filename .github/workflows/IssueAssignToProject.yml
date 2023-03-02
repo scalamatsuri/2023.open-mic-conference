@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: alex-page/github-project-automation-plus@v0.8.3
         with:
-          project: Open Mic Conference - ScalaMatsuri 2023
+          project: https://github.com/orgs/scalamatsuri/projects/14
           column: Proposal
           repo-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
