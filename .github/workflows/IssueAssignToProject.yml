@@ -4,13 +4,13 @@ on:
     types:
       - opened
 env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.SCALAMATSURI_2023_OPEN_MIC_CONFERENCE_ACTIONS }}
 jobs:
   assign_one_project:
     runs-on: ubuntu-latest
     name: Assign to One Project
     steps:
-      - name: Issue, PR の作成をトリガーに、所定の Project に割り当てる
+      - name: Project に割り当てる
         uses: srggrs/assign-one-project-github-action@1.2.1
         with:
           project: 'https://github.com/orgs/scalamatsuri/projects/12'
