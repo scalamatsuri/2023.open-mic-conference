@@ -26,6 +26,10 @@ Please add a 👍 or other reaction to ideas that sound interesting and that you
 
 参加したいと思うアイディアがあれば、👍 などのリアクションを付けてください。
 
+## Timetable
+
+https://github.com/orgs/scalamatsuri/projects/14
+
 ## Other's
 
 Please note simultaneous translation will not be provided for the Open Mic Conference.
