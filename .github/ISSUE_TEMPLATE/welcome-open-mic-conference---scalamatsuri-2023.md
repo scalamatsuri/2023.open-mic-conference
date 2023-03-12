@@ -23,19 +23,26 @@ Please provide a summary below.
 {Fill in the summary here} / {ここに概要を記入する}
 ```
 
-## Enter your Discord account ID / Discord アカウント ID を記入してください
+## Enter your Discord server nickname / Discord サーバーニックネーム を記入してください
 
 If accepted, we will ask you again on the day of the event (or before the day of the event) whether or not you are available to speak on the Discord.
 
 採択された場合、当日（または当日までに）改めて Discord 上で登壇可否をお伺いします。
 
-Please provide your ScalaMatsuri Discord account, where you participate in the ScalaMatsuri Discord.
+Please provide your ScalaMatsuri Discord server nickname, where you participate in the ScalaMatsuri Discord.
 
-ScalaMatsuri の Discord に参加している、Discord アカウントをご記入ください。
+ScalaMatsuri の Discord に参加している、Discord アカウントのサーバーニックネームをご記入ください。
+
+
+<img width="820" alt="servernickname" src="https://user-images.githubusercontent.com/4135267/224581744-e072f97f-e807-4664-8e53-0786a94dbc9a.png">
+
+
 
 ```
 {Insert summary here} / {ここに概要を記入する}
 ```
+
+
 
 ## Do you have any materials (slides, etc.) for your presentation? Check if yes. / 発表に使う資料（スライドなど）はございますか？ ※ある場合はチェック
 
