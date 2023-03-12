@@ -17,7 +17,7 @@ Issue のタイトルとして記入してください。
 
 Please provide a summary below.
 
-概要を下記に記入してください
+概要を記入してください
 
 ```
 {Fill in the summary here} / {ここに概要を記入する}
@@ -33,16 +33,11 @@ Please provide your ScalaMatsuri Discord server nickname, where you participate 
 
 ScalaMatsuri の Discord に参加している、Discord アカウントのサーバーニックネームをご記入ください。
 
-
 <img width="820" alt="servernickname" src="https://user-images.githubusercontent.com/4135267/224581744-e072f97f-e807-4664-8e53-0786a94dbc9a.png">
-
-
 
 ```
 {Fill in Discord server nickname here} / {ここに Discord のサーバーニックネームを記入する}
 ```
-
-
 
 ## Do you have any materials (slides, etc.) for your presentation? Check if yes. / 発表に使う資料（スライドなど）はございますか？ ※ある場合はチェック
 
