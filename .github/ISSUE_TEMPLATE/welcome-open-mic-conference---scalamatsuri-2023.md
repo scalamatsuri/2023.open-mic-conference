@@ -39,7 +39,7 @@ ScalaMatsuri の Discord に参加している、Discord アカウントのサ�
 
 
 ```
-{Insert summary here} / {ここに概要を記入する}
+{Fill in Discord server nickname here} / {ここに Discord のサーバーニックネームを記入する}
 ```
 
 
