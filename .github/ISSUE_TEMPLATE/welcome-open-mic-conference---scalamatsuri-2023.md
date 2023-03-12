@@ -23,6 +23,8 @@ Please provide a summary below.
 {Fill in the summary here} / {ここに概要を記入する}
 ```
 
+<br><br><br>
+
 ## Enter your Discord server nickname / Discord サーバーニックネーム を記入してください
 
 If accepted, we will ask you again on the day of the event (or before the day of the event) whether or not you are available to speak on the Discord.
@@ -39,9 +41,13 @@ ScalaMatsuri の Discord に参加している、Discord アカウントのサ�
 {Fill in Discord server nickname here} / {ここに Discord のサーバーニックネームを記入する}
 ```
 
+<br><br><br>
+
 ## Do you have any materials (slides, etc.) for your presentation? Check if yes. / 発表に使う資料（スライドなど）はございますか？ ※ある場合はチェック
 
 - [ ] Yes / ある
+
+<br><br><br>
 
 ## How many minutes of LT do you plan to give? (Basically 20 minutes per slot) / 何分くらいの LT を予定していますか？（基本的に 1 枠 20 分となります）
 
@@ -50,6 +56,8 @@ ScalaMatsuri の Discord に参加している、Discord アカウントのサ�
 40 min
 ```
 
+<br><br><br>
+
 ## By signing below, you agree to ScalaMatsuri's Code of conduct / 下記 ☑ をして、ScalaMatsuri の Code of conduct に同意してください
 
 Code of conduct - ScalaMatsuri
@@ -57,6 +65,8 @@ Code of conduct - ScalaMatsuri
 https://scalamatsuri.org/ja/code-of-conduct
 
 - [ ] I agree to ScalaMatsuri's Code of conduct. / ScalaMatsuri の Code of conduct に同意します
+
+<br><br><br>
 
 ## Other / その他
 
@@ -75,3 +85,5 @@ Please review the following and check all that apply. / 下記を確認し、す
 ### Please be aware that while a open mic conference is a conference created by all participants, due to management and other circumstances, we may not be able to meet all expectations. / 飛び入りカンファレンスは参加者が全員でつくりあげるカンファレンスですが、運営やその他事情により、すべてのご期待に添えない場合がございますことを、予めご了承ください。
 
 - [ ] Yes, I agree. / 承知しました
+
+<br><br><br>
