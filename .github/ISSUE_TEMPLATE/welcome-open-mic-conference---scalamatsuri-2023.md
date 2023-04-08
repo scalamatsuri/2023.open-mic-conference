@@ -87,3 +87,23 @@ Please review the following and check all that apply. / 下記を確認し、す
 - [ ] Yes, I agree. / 承知しました
 
 <br><br><br>
+
+<br><br><br>
+
+## Link's リンク集
+
+Time table
+
+[https://github.com/orgs/scalamatsuri/projects/14:embed:cite]
+
+Open Mic Conference - ScalaMatsuri 2023 CFP
+
+[https://github.com/scalamatsuri/2023.open-mic-conference/issues/new?&labels=Proposal&template=welcome-open-mic-conference---scalamatsuri-2023.md:embed:cite]
+
+Open Mic Conference - ScalaMatsuri 2023 Repository
+
+[https://github.com/scalamatsuri/2023.open-mic-conference:embed:cite]
+
+ScalaMatusri 2023
+
+[https://scalamatsuri.org/:embed:cite]
