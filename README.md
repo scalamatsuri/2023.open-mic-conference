@@ -36,4 +36,4 @@ Please note simultaneous translation will not be provided for the Open Mic Confe
 
 飛び入りカンファレンスでは、同時通訳は提供されないことにご注意ください。
 
-[About open mic conference](TBD)
+[About open mic conference - ScalaMatsuri 2023](https://blog.scalamatsuri.org/entry/2023/04/10/120001)
