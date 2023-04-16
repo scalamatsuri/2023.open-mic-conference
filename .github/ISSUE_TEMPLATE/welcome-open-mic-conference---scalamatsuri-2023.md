@@ -96,6 +96,6 @@ Please review the following and check all that apply. / 下記を確認し、す
 - Open Mic Conference - ScalaMatsuri 2023 CFP [here](https://github.com/scalamatsuri/2023.open-mic-conference/issues/new?&labels=Proposal&template=welcome-open-mic-conference---scalamatsuri-2023.md)
 - Open Mic Conference - ScalaMatsuri 2023 Repository [here](https://github.com/scalamatsuri/2023.open-mic-conference)
 
-ScalaMatusri 2023
+ScalaMatsuri 2023
 
 [https://scalamatsuri.org/:embed:cite]
